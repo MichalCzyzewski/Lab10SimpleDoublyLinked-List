@@ -26,7 +26,7 @@ void menu() {
             lista->wyswietl();
             break;
         case 3:
-            cout<<"Ktora pozycje z listy chcesz usunac : ";
+            cout<<"Ktora pozycje z listy chcesz usunac (podaj nr) : ";
             cin>>i;
             lista->kasuj(i);
             break;
