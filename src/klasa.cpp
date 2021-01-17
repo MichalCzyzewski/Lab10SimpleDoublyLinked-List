@@ -39,7 +39,6 @@ void menu() {
     } while (point!=4);
 };
 
-
 void baza::nowaOsoba() {
     string i,n,t;
 
@@ -51,7 +50,6 @@ void baza::nowaOsoba() {
     cin>>t;
     dodajOsobeOdKonca(i,n,t);
 }
-
 
 void baza::dodajOsobeOdKonca(string imie,string nazwisko,string telefon) {
 
