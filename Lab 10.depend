@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610310837 source:c:\users\hp\desktop\devc++\podstawy programowania i (c++)\lab1\lab 10\main.cpp
+	"klasa.h"
+
+1610310123 c:\users\hp\desktop\devc++\podstawy programowania i (c++)\lab1\lab 10\include\klasa.h
+	<iostream>
+	<string.h>
+
+1610311221 source:c:\users\hp\desktop\devc++\podstawy programowania i (c++)\lab1\lab 10\src\klasa.cpp
+	"klasa.h"
+
